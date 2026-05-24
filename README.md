@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,30&height=200&section=header&text=Alejandro%20Ruiz%20Delgado&fontSize=50&fontAlignY=35&desc=Desarrollador%20fullstack%20💻%20%7C%20Amante%20del%20rock%20🎸&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,30&height=200&section=header&text=Alejandro%20Ruiz%20Delgado&fontSize=50&fontAlignY=35&desc=Desarrollador%20fullstack%20💻&descAlignY=55" width="100%"/>
 </div>
 
 ## 👨‍💻 Sobre mí
