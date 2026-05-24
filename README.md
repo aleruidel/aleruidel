@@ -76,11 +76,11 @@ Soy un desarrollador fullstack apasionado por la tecnología y la programación.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aleruidel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleruidel&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleruidel&theme=tokyonight" />
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleruidel&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleruidel&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
