@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,30&height=200&section=header&text=Alejandro%20Ruiz%20Delgado&fontSize=50&fontAlignY=35&desc=Desarrollador%20autodidacta%20💻%20%7C%20Amante%20del%20rock%20🎸&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,30&height=200&section=header&text=Alejandro%20Ruiz%20Delgado&fontSize=50&fontAlignY=35&desc=Desarrollador%20fullstack%20💻%20%7C%20Amante%20del%20rock%20🎸&descAlignY=55" width="100%"/>
 </div>
 
 ## 👨‍💻 Sobre mí
@@ -7,13 +7,13 @@
 ```yaml
 nombre: Alejandro Ruiz Delgado
 alias: Alex
-rol: Desarrollador autodidacta
+rol: Desarrollador fullstack
 pasión: [Programación, Tecnología, Videojuegos, Música]
 aprendiendo: TypeScript, Rust, Node.js
 filosofía: "El aprendizaje nunca termina"
 ```
 
-Soy un desarrollador autodidacta apasionado por la tecnología y la programación. Me encanta resolver problemas con código y construir proyectos que tengan impacto. Siempre estoy aprendiendo algo nuevo.
+Soy un desarrollador fullstack apasionado por la tecnología y la programación. Me encanta resolver problemas con código y construir proyectos que tengan impacto. Siempre estoy aprendiendo algo nuevo.
 
 ---
 
