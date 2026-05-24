@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,30&height=200&section=header&text=Alejandro%20Ruiz%20Delgado&fontSize=50&fontAlignY=35&desc=Desarrollador%20fullstack%20💻&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,30&height=200&section=header&text=Alejandro%20Ruiz%20Delgado&fontSize=50&fontAlignY=35&desc=Desarrollador%20fullstack%20&descAlignY=55" width="100%"/>
 </div>
 
 ## 👨‍💻 Sobre mí
@@ -11,7 +11,7 @@ rol: Desarrollador fullstack
 pasión: [Programación, Tecnología, Videojuegos, Música]
 ```
 
-Soy un desarrollador fullstack apasionado por la tecnología y la programación. Me encanta resolver problemas con código y construir proyectos que tengan impacto
+Soy un desarrollador fullstack apasionado por la tecnología y la programación. Me encanta construir proyectos que tengan impacto
 
 ---
 
@@ -86,22 +86,12 @@ Soy un desarrollador fullstack apasionado por la tecnología y la programación.
 
 ---
 
-## 🌐 Conecta conmigo
-
-<div align="center">
-  <a href="https://github.com/aleruidel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aleruidel&color=blueviolet&style=flat-square&label=Visitas+al+perfil"/>
   
   <br><br>
   
-  *"Que te voy a decir, si yo acabo de llegar"* 🦀
+  *"Que te voy a decir, si yo acabo de llegar"*
 </div>
 
 <div align="center">
