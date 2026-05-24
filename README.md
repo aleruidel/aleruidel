@@ -101,13 +101,8 @@ Soy un desarrollador fullstack apasionado por la tecnología y la programación.
   
   <br><br>
   
-  **⭐ *"El aprendizaje nunca termina"***  
-  *"La música es el alma de la programación"* 🦀
+  *"Que te voy a decir, si yo acabo de llegar"* 🦀
 </div>
-
-<!--
-⌨️ Hecho con 💜 por aleruidel
--->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,30&height=100&section=footer" width="100%"/>
