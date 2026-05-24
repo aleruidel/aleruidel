@@ -9,20 +9,16 @@ nombre: Alejandro Ruiz Delgado
 alias: Alex
 rol: Desarrollador fullstack
 pasión: [Programación, Tecnología, Videojuegos, Música]
-aprendiendo: TypeScript, Rust, Node.js
-filosofía: "El aprendizaje nunca termina"
 ```
 
-Soy un desarrollador fullstack apasionado por la tecnología y la programación. Me encanta resolver problemas con código y construir proyectos que tengan impacto. Siempre estoy aprendiendo algo nuevo.
+Soy un desarrollador fullstack apasionado por la tecnología y la programación. Me encanta resolver problemas con código y construir proyectos que tengan impacto
 
 ---
 
 ## 🎸 Música que me mueve
 
-El rock español es mi estilo. Estos son mis favoritos:
-
-- ⚡ **Fito & Fitipaldis** — Rock & Roll, Blues
-- 🔥 **Extremoduro** — Rock transgresivo
+- ⚡ **Fito & Fitipaldis** — S*xo, Droga, Rock and Roll
+- 🔥 **Extremoduro** — Extremaydura
 
 ---
 
